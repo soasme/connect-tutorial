@@ -14,3 +14,7 @@
     node step1.js
 
 然后访问浏览器 http://localhost:3000
+
+### 以此类推
+
+运行 node stepN.js // N 是数字.

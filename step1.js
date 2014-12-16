@@ -19,4 +19,6 @@ app.use(helloWorld);
 // node 的 http 模块新建一个服务器, 监听 3000 端口
 http.createServer(app).listen(3000);
 
+// 运行 node step1.js
 // 打开浏览器, 访问 http://localhost:3000 , 你将会看到浏览器的输出.
+// 在 iterm 中敲一下
